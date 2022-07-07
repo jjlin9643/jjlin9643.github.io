@@ -17,11 +17,11 @@ const links = [
                 'w-full',
                 'rounded-b-lg',
                 'bg-gradient-to-r',
-                'from-violet-800',
-                'to-indigo-600',
+                'from-fuchsia-300',
+                'to-fuchsia-200',
                 'pl-24',
                 'shadow-lg',
-                'shadow-indigo-400',
+                'shadow-fuchsia-100',
                 'md:pl-32',
                 'transition-all',
                 'duration-200',
@@ -55,7 +55,7 @@ const links = [
             >
                 <img
                     :src="pic.uniform"
-                    class="w-full translate-y-12 scale-[180%] transition-all duration-200 hover:rounded-xl hover:pt-5 md:translate-y-14 md:hover:pt-7"
+                    class="w-full translate-y-12 scale-[180%] transition-all duration-200 hover:rounded-xl hover:pt-5 md:translate-y-10 md:hover:pt-7"
                 />
             </div>
         </transition>

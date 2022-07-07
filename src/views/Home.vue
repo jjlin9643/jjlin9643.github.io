@@ -13,7 +13,7 @@ const width = screen.width;
         <div class="flex w-full flex-col md:flex-row">
             <div class="w-full md:w-1/2">
                 <Typing
-                    text="Anya Forger"
+                    text="wincy"
                     @done="step++"
                     class="mb-2 block text-2xl sm:text-3xl lg:text-4xl"
                 />
@@ -49,7 +49,7 @@ const width = screen.width;
                     <img
                         v-show="step > (width >= 768 ? 0 : 3)"
                         :src="pic.casual_large"
-                        class="-translate-y-0 scale-[200%] md:-translate-y-20 md:scale-150 lg:-translate-y-32 lg:scale-125"
+                        class="-translate-y-0 scale-[200%] md:-translate-y-20 md:scale-150 lg:-translate-y-0 lg:scale-125"
                     />
                 </transition>
             </div>

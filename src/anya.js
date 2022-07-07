@@ -1,8 +1,8 @@
 const pic = {
-    uniform: "https://spy-family.net/assets/img/common/header_bottomimg_3.png",
+    uniform: "https://upload.cc/i1/2022/07/07/OEYFfJ.jpg",
     icecream: "https://spy-family.net/assets/img/common/header_bottomimg_3_family.png",
     uniform_large: "https://spy-family.net/assets/img/top/chara_anya_1.png",
-    casual_large: "https://spy-family.net/assets/img/top/chara_anya_2.png",
+    casual_large: "https://upload.cc/i1/2022/07/07/c5iShk.jpg",
     avatars: [],
 };
 
@@ -35,7 +35,7 @@ pic.avatars.push(
     "https://spy-family.net/assets/img/special/episode12/06.png",
 );
 
-const titles = ["First-Grade Student", "Test Subject 007", "Telepath"];
+const titles = ["First-Grade Student", "Dail hight schooi", "Taipei"];
 
 const about = [
     "My name is Anya Forger. I am 6 years old now!",
